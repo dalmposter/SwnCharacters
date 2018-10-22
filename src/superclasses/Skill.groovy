@@ -1,0 +1,6 @@
+package superclasses
+
+class Skill
+{
+
+}

@@ -1,3 +1,6 @@
+package testing
+
+import main.PC
 
 class testMain
 {

@@ -1,3 +1,5 @@
+package superclasses
+import main.PC
 
 class Weapon extends Item
 {
